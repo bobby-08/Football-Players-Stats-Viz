@@ -8,7 +8,7 @@ Note
         pip install soccerplots
 
 
-You will need to input 3 variables :-
+You will need to input 4 variables :-
 ```
 League
 Year
@@ -27,7 +27,7 @@ Bundesliga :- bundesliga
 
 Ligue 1 :- ligue_1
 
-RFPL :- *RFPL
+RFPL :- RFPL
 ```
 
 Data is available only from the year **2014** as per the understat website.
