@@ -2,7 +2,7 @@
 Scrapes  and compares the player stats between two players from a league you would like to view from.
 
 ```Note```
-    I have used the **soccer-plots** package to create the visualizations
+    <br>I have used the **soccer-plots** package to create the visualizations</br>
     You can install package using the _pip command_
         ***pip install soccerplots***
 
