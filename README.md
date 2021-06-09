@@ -7,7 +7,7 @@ Scrapes  and compares the player stats between two players from a league you wou
         ***pip install soccerplots***
 
 
-You will need to input 3 variables :-```
+You will need to input 3 variables :-
 ```**League**
 **Year**
 **Player 1**
@@ -27,18 +27,16 @@ Input the League you want to compare the players from.
 **RFPL :- *RFPL***
 ```
 
-***Data is available only from the year **2014** as per the understat website.***
-
-**https://understat.com/**
+Data is available only from the year **2014** as per the understat website.
 
 
 Please mention the names of the players with their **First Name** and **Last Name**
 ```Examples:-
 ***Mohamed Salah***
 ***Alexander Isak***
-```
-***Artem Dzyuba***
-```Check out the understat website for more information regarding the data```
+***Artem Dzyuba***```
 
+Check out the understat website for more information regarding the data
+**https://understat.com/**
 
 ```Make sure the players you want to compare are from the same league```
