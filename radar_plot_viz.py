@@ -10,11 +10,6 @@ def player_input(football_df):
     player1 = str(input('Please Enter the Player 1: ')).upper()
     player2 = str(input('Please Enter the Player 2: ')).upper()
 
-    #if player1 not in football_df['Player']:
-    #    print('{} does not exist in the database. \n Please cross check the player name!'.format(player1))  
-    #elif player2 not in football_df['Player']:
-    #    print('{} does not exist in the database. \n Please cross check the player name!'.format(player2))
-    #else:
     print('Analyzing player: ',player1)
     print('xxxxxxxxxxx')
     print('Analyzing player: ',player2)
