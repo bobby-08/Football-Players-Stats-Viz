@@ -9,10 +9,12 @@ Note
 
 
 You will need to input 3 variables :-
-```League
+```
+League
 Year
 Player 1
-Player 2```
+Player 2
+```
 
 
 Input the League you want to compare the players from.
