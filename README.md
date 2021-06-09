@@ -19,24 +19,26 @@ Player 2
 
 Input the League you want to compare the players from.
 ```
-**Premier League :- *epl*** 
+Premier League :- epl
 
-**La Liga :- *la_liga***
+La Liga :- la_liga
 
-**Bundesliga :- *bundesliga***
+Bundesliga :- bundesliga
 
-**Ligue 1 :- *ligue_1***
+Ligue 1 :- ligue_1
 
-**RFPL :- *RFPL***
+RFPL :- *RFPL
 ```
 
 Data is available only from the year **2014** as per the understat website.
 
 Please mention the names of the players with their **First Name** and **Last Name**
-```Examples:-
+```
+Examples:-
 Mohamed Salah
 Alexander Isak
-Artem Dzyuba```
+Artem Dzyuba
+```
 
 Check out the understat website for more information regarding the data
 
