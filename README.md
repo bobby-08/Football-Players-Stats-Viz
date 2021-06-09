@@ -2,22 +2,21 @@
 Scrapes  and compares the player stats between two players from a league you would like to view from.
 
 Note
-    <br>I have used the **soccer-plots** package to create the visualizations</br>
+    <br>I have used the **soccerplots** package to create the visualizations</br>
     You can install package using the _pip_ command
         
-        ```pip install soccerplots```
+        pip install soccerplots
 
 
 You will need to input 3 variables :-
-```
-League
+```League
 Year
 Player 1
 Player 2```
 
 
 Input the League you want to compare the players from.
-
+```
 **Premier League :- *epl*** 
 
 **La Liga :- *la_liga***
