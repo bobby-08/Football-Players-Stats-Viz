@@ -42,6 +42,6 @@ Artem Dzyuba
 
 Check out the understat website for more information regarding the data
 
-```https://understat.com/```
+***https://understat.com/***
 
 **Make sure the players you want to compare are from the same league**
